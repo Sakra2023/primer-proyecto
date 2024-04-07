@@ -1,4 +1,5 @@
 function ingreso(){
+    document.write("PROGRAMA DE EDISON VARGAS EL MAS GUAPO XD."+"<br>")
     let frase=prompt("INGRESA UNA FRASE: ")
     return frase
 }
